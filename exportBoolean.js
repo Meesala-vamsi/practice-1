@@ -1,3 +1,3 @@
 let bool = true;
 
-module.export = bool;
+module.exports = bool;
